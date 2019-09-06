@@ -1,2 +1,2 @@
-# visualization
+# data visualization
 Class Assignments
